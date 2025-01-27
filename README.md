@@ -23,3 +23,17 @@ Dart SDK Installation Guide
 How to Run the Code
 1. Clone the Repository (if applicable)
 If you're using a GitHub repository, clone it to your local machine:
+https://github.com/YazanAK23/Data-Structure-Tasks.git
+cd Data-Structure-Tasks
+
+
+2.Setup and Running Each Dart File
+
+Each challenge is implemented in its own Dart file. You can run each Dart file by using the following command in the terminal:
+
+dart run <filename>.dart
+
+For example, to run the Linked List Challenge to reverse the list, if the file is named reverse_linked_list.dart, you would run:
+dart run reverse_linked_list.dart
+
+
